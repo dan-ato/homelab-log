@@ -34,6 +34,23 @@ Establish a local home server system using a mini-PC to self-host tools and serv
 
 ## 🧱 Base Setup Steps
 
+# Mini-PC Setup Log
+
+## [Date] Initial Boot
+- Booted Windows mini-PC.
+- Connected to [Wi-Fi/Ethernet].
+- Installed Windows updates: [Pending/In Progress/Complete].
+- Removed bloatware: [List if any].
+- Installed tools: [Git, VS Code, Terminal, etc.]
+
+## Notes:
+- System feels [Fast/Laggy/Decent]
+- Any driver issues: [None/Yes - Details]
+
+
+
+
+
 ### ✅ 1. Flash & Install OS
 - Used [Rufus/BalenaEtcher/etc.] to flash ISO to USB
 - Installed OS via mini-PC monitor/keyboard
